@@ -38,7 +38,8 @@ body {
 /* text styles */
 .h1 {
   font-weight: 700;
-  font-size: 75px;
+  font-size: 52px;
+  text-wrap: wrap;
   color: var(--black);
   text-align: center;
   margin: 20px 0;
@@ -76,9 +77,10 @@ body {
 .cards {
   display: flex;
   justify-content: space-between;
+  justify-content: center;
   flex-wrap: wrap;
   margin: 40px 0;
-  gap: 25px;
+  gap: 82px;
 }
 
 .card-item {
