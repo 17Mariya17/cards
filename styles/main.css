@@ -38,7 +38,7 @@ body {
 /* text styles */
 .h1 {
   font-weight: 700;
-  font-size: 52px;
+  font-size: 40px;
   text-wrap: wrap;
   color: var(--black);
   text-align: center;
